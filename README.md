@@ -1,4 +1,3 @@
-TMLNet
-Upload under progress
+TMLNet (Upload under progress)
 
 Dataset Used:
