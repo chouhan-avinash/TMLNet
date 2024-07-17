@@ -9,7 +9,7 @@
 
 
 @article{CHOUHAN2024128080,
-	title = {TMLNet: Triad Multitask Learning Network for multiobjective based change detection},
+	title = {TMLNet: Triad Multitask Learning Network for multiobjective based change detection}, ##
 	journal = {Neurocomputing},
 	pages = {128080},
 	year = {2024},
