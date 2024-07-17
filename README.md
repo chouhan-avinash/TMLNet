@@ -1,8 +1,8 @@
-#**TMLNet**  
+# **TMLNet**  
 
-##Trained Models: [Link](https://drive.google.com/drive/u/0/folders/1js2XbTFOiP1dESZsMCjBeuuufQkpj-xU)
+## Trained Models: [Link](https://drive.google.com/drive/u/0/folders/1js2XbTFOiP1dESZsMCjBeuuufQkpj-xU)
 
-##Dataset Used:
+## Dataset Used:
 
 
 (Code upload under progress)
