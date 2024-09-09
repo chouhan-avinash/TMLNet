@@ -7,7 +7,9 @@
 
 (Code upload under progress)
 
+## Citation
 
+```
 @article{CHOUHAN2024128080,
 	title = {TMLNet: Triad Multitask Learning Network for multiobjective based change detection},
 	journal = {Neurocomputing},
@@ -18,3 +20,4 @@
 	url = {https://www.sciencedirect.com/science/article/pii/S0925231224008518},
 	author = {Avinash Chouhan and Arijit Sur and Dibyajyoti Chutia and Shiv Prasad Aggarwal},
 }
+```
