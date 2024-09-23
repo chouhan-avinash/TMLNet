@@ -1,4 +1,4 @@
-# **TMLNet**  
+# **TMLNet: Triad Multitask Learning Network for multiobjective based change detection**  
 
 ## Trained Models: [Link](https://drive.google.com/drive/u/0/folders/1js2XbTFOiP1dESZsMCjBeuuufQkpj-xU)
 
